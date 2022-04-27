@@ -5,6 +5,8 @@
 python manage.py runserver
 ```
 
+- Default credentials: username: onix.hoque pass: qwerty
+
 - Preview
 ![1](https://user-images.githubusercontent.com/52383535/165146180-aa671b17-fc3c-4373-a673-3b56d336d3fe.png)
 ![2](https://user-images.githubusercontent.com/52383535/165146189-b29358e0-eec7-492e-917c-7c1147f6e24b.png)
